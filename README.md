@@ -22,6 +22,11 @@
 【[辽宁](./md/48.md)】  【[吉林](./md/49.md)】  【[黑龙江](./md/50.md)】
 
 ### 2024-06-28 更新
+> 【[数字频道](./md/10.md)】【[海南](./md/28.md)】
+
+<img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/maidd.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/migusp.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/migu.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/Hainan6.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/BesTV.png">
+
+### 2024-06-28 更新
 > 【[CGTN=中国教育电视台=新华社=中央新影](./md/02.md)】【[数字频道](./md/10.md)】【[NewTV系列](./md/13.md)】
 > 【[浙江](./md/23.md)】【[内蒙古](./md/37.md)】
 
