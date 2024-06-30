@@ -21,24 +21,22 @@
 
 【[辽宁](./md/48.md)】  【[吉林](./md/49.md)】  【[黑龙江](./md/50.md)】
 
+
+> 按照新的频道呼号核对实际台标做了名称调整
+
+
+### 2024-06-29 更新
+> 【[海南](./md/28.md)】【[广东](./md/26.md)】【[河北](./md/35.md)】
+
 ### 2024-06-29 更新
 > 【[数字频道](./md/10.md)】【[江苏](./md/21.md)】【[海南](./md/28.md)】【[黑龙江](./md/50.md)】
-
-<img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/Nanjing1.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/Nanjing2.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/Nanjing3.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/Nanjing4.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/Nanjing5.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/Nanjing7.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/Nanjing6.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/Nanjing18.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/maidd.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/migusp.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/migu.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/Hainan6.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/BesTV.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVLogo/List/img/Heilongjiang8.png">
 
 ### 2024-06-28 更新
 > 【[CGTN=中国教育电视台=新华社=中央新影](./md/02.md)】【[数字频道](./md/10.md)】【[NewTV系列](./md/13.md)】
 > 【[浙江](./md/23.md)】【[内蒙古](./md/37.md)】
 
-<img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/Cwjd_.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/CHCymdy.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/dbdj.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/jingpindaoshi.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVLogo/List/img/NewTVMC.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVLogo/List/img/zhejiangxw.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVLogo/List/img/zhijiangjilu.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVLogo/List/img/nmgmyws.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVLogo/List/img/nmgmywh.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/iPanda.png">|
-
 ### 2023-03-26 更新
-> 【[广东](./md/26.md)】  【[北京](./md/33.md)】  【[湖南](./md/29.md)】  大幅度调整，建议重新下载保存
-
-<img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/xindm.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/jtlc.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/TVB3.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/TVB5.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/HOY1.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/CTI5.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/jingcai01.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/jingcai02.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/jingcai03.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/jingcai04.png">
+> 【[广东](./md/26.md)】【[北京](./md/33.md)】【[湖南](./md/29.md)】  大幅度调整，建议重新下载保存
 
 ### 2023-03-20 更新
-> 【[辽宁](./md/48.md)】  【[福建](./md/24.md)】  【[山东](./md/20.md)】  【[天津](./md/34.md)】
-> 按照新的频道呼号核对实际台标做了名称调整
-
-<img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/leyou.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/huashu4k.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/TaiwanPlus.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/Fujian9.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/bjtjcai.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/Hubei7.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/Mnews.png"><img src="https://raw.githubusercontent.com/YuWell-Loong/TVlogo/List/img/inbm.png">
+> 【[辽宁](./md/48.md)】【[福建](./md/24.md)】【[山东](./md/20.md)】【[天津](./md/34.md)】
