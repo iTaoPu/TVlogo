@@ -20,3 +20,8 @@
 【[四川](./md/43.md)】  【[云南](./md/44.md)】  【[贵州](./md/45.md)】  【[西藏](./md/46.md)】  【[重庆](./md/47.md)】
 
 【[辽宁](./md/48.md)】  【[吉林](./md/49.md)】  【[黑龙江](./md/50.md)】
+
+
+<p align="center">
+  <img src="https://iTaoPu.Github.io/言家稗子-标准色版.png" alt="微信公眾號" />
+</p>
